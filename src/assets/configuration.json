@@ -1,0 +1,16 @@
+{
+    "jiraMappings": {
+        "customField1": "thirdPartyRefrence",
+        "customField2": "state"
+    },
+    "tfsMappings": {
+        "customField1": "thirdPartyRefrence",
+        "customField2": "state"
+    },
+    "jiraConnectionSettings": {
+
+    },
+    "tfsConnectionSettings": {
+
+    }
+}
